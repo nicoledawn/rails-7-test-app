@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-* complete ROR dev
+* first test repo on the course
